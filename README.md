@@ -10,7 +10,7 @@ Literature review is a crucial yet sometimes overlooked part in data science. To
 
 Time spent on literature review is time well spent.
 
-This is one list of the whole compilation. For lists of other competitions and solutions, please refer to:
+This is one list of the whole compilation. For a list of other competitions and solutions, please refer to:
 
 * Kaggle - [Regression](https://github.com/ShuaiW/kaggle-regression/)
 * Kaggle - [Deep Learning](https://github.com/ShuaiW/kaggle-deeplearning)
