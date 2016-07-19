@@ -20,6 +20,62 @@ Hope the compilation can save you efforts and offer you insights. Enjoy!
 
 ======
 
+### [Personality Prediction Based on Twitter Stream](https://www.kaggle.com/c/twitter-personality-prediction)
+
+Tue 8 May 2012 – Fri 29 Jun 2012
+
+Identify the best performing model(s) to predict personality traits based on Twitter usage
+
+======
+
+### [Predicting a Biological Response](https://www.kaggle.com/c/bioresponse)
+
+Fri 16 Mar 2012 – Fri 15 Jun 2012
+
+Predict a biological response of molecules from their chemical properties
+
+======
+
+### [Eye Movements Verification and Identification Competition](https://www.kaggle.com/c/emvic)
+
+Tue 20 Mar 2012 – Sun 15 Apr 2012
+
+Determine how people may be identified based on their eye movement characteristic.
+
+======
+
+### [What Do You Know?](https://www.kaggle.com/c/WhatDoYouKnow)
+
+Fri 18 Nov 2011 – Wed 29 Feb 2012
+
+Improve the state of the art in student evaluation by predicting whether a student will answer the next test question correctly.
+
+======
+
+### [Don't Get Kicked!](https://www.kaggle.com/c/DontGetKicked)
+
+Fri 30 Sep 2011 – Thu 5 Jan 2012
+
+Predict if a car purchased at auction is a lemon (new car with defects)
+
+======
+
+### [Give Me Some Credit](https://www.kaggle.com/c/GiveMeSomeCredit)
+
+Mon 19 Sep 2011 – Thu 15 Dec 2011
+
+Improve on the state of the art in credit scoring by predicting the probability that somebody will experience financial distress in the next two years.
+
+======
+
+### [Photo Quality Prediction](https://www.kaggle.com/c/PhotoQualityPrediction)
+
+Sat 29 Oct 2011 – Sun 20 Nov 2011
+
+Given anonymized information on thousands of photo albums, predict whether a human evaluator would mark them as 'good'.
+
+======
+
 ### [Don't Overfit!](https://www.kaggle.com/c/overfitting)
 
 Mon 28 Feb 2011 – Sun 15 May 2011
