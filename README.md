@@ -13,10 +13,123 @@ Time spent on literature review is time well spent.
 This is only one list of the whole compilation. For other lists of competitions and solutions, please refer to:
 
 * Kaggle - [Regression](https://github.com/ShuaiW/kaggle-regression/)
-* Kaggle - [Deep Learning](https://github.com/ShuaiW/kaggle-deeplearning)
+* Kaggle - [NLP](https://github.com/ShuaiW/kaggle-nlp)
+* Kaggle - [Image](https://github.com/ShuaiW/kaggle-image)
 * Kaggle - [Miscellaneous](https://github.com/ShuaiW/kaggle-miscellaneous)
 
 Hope the compilation can save you efforts and offer you insights. Enjoy!
+
+======
+
+### [KDD Cup 2014 - Predicting Excitement at DonorsChoose.org](https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose)
+
+Thu 15 May 2014 – Tue 15 Jul 2014
+
+Predict funding requests that deserve an A+
+
+======
+
+### [Acquire Valued Shoppers Challenge](https://www.kaggle.com/c/acquire-valued-shoppers-challenge)
+
+Thu 10 Apr 2014 – Mon 14 Jul 2014
+
+Predict which shoppers will become repeat buyers
+
+======
+
+### [Allstate Purchase Prediction Challenge](https://www.kaggle.com/c/allstate-purchase-prediction-challenge)
+
+Tue 18 Feb 2014 – Mon 19 May 2014
+
+Predict a purchased policy based on transaction history
+
+======
+
+### [March Machine Learning Mania](https://www.kaggle.com/c/march-machine-learning-mania)
+
+Tue 7 Jan 2014 – Tue 8 Apr 2014
+
+Tip off college basketball by predicting the 2014 NCAA Tournament
+
+======
+
+### [Accelerometer Biometric Competition](https://www.kaggle.com/c/accelerometer-biometric-competition)
+
+Tue 23 Jul 2013 – Fri 22 Nov 2013
+
+Recognize users of mobile devices from accelerometer data
+
+======
+
+### [StumbleUpon Evergreen Classification Challenge](https://www.kaggle.com/c/stumbleupon)
+
+Fri 16 Aug 2013 – Thu 31 Oct 2013
+
+Build a classifier to categorize webpages as evergreen or non-evergreen
+
+======
+
+### [Cause-effect pairs](https://www.kaggle.com/c/cause-effect-pairs)
+
+Fri 29 Mar 2013 – Mon 2 Sep 2013
+
+Given samples from a pair of variables A, B, find whether A is a cause of B.
+
+======
+
+### [Amazon.com - Employee Access Challenge](https://www.kaggle.com/c/amazon-employee-access-challenge)
+
+Wed 29 May 2013 – Wed 31 Jul 2013
+
+Predict an employee's access needs, given his/her job role
+
+======
+
+### [KDD Cup 2013 - Author Disambiguation Challenge (Track 2)](https://www.kaggle.com/c/kdd-cup-2013-author-disambiguation)
+
+Fri 19 Apr 2013 – Wed 12 Jun 2013
+
+Identify which authors correspond to the same person
+
+======
+
+### [Predict Closed Questions on Stack Overflow](https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow)
+
+Tue 21 Aug 2012 – Sat 3 Nov 2012
+
+Predict which new questions asked on Stack Overflow will be closed
+
+======
+
+### [Merck Molecular Activity Challenge](https://www.kaggle.com/c/MerckActivity)
+
+Thu 16 Aug 2012 – Tue 16 Oct 2012
+
+Help develop safe and effective medicines by predicting molecular activity.
+
+======
+
+### [Data Mining Hackathon on BIG DATA (7GB) Best Buy mobile web site](https://www.kaggle.com/c/acm-sf-chapter-hackathon-big)
+
+Sat 18 Aug 2012 – Sun 30 Sep 2012
+
+Predict which BestBuy product a mobile web visitor will be most interested in based on their search query or behavior over 2 years (7 GB).
+
+======
+
+### [Data Mining Hackathon on (20 mb) Best Buy mobile web site - ACM SF Bay Area Chapter](https://www.kaggle.com/c/acm-sf-chapter-hackathon-small)
+
+Sat 18 Aug 2012 – Sun 30 Sep 2012
+
+Getting Started - Predict which Xbox game a visitor will be most interested in based on their search query. (20 MB)
+
+======
+
+### [Practice Fusion Diabetes Classification](https://www.kaggle.com/c/pf2012-diabetes)
+
+Tue 10 Jul 2012 – Mon 10 Sep 2012
+
+Identify patients diagnosed with Type 2 Diabetes
 
 ======
 
