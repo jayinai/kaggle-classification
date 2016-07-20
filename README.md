@@ -21,6 +21,22 @@ Hope the compilation can save you efforts and offer you insights. Enjoy!
 
 ======
 
+### [MLSP 2014 Schizophrenia Classification Challenge](https://www.kaggle.com/c/mlsp-2014-mri)
+
+Thu 5 Jun 2014 – Sun 20 Jul 2014
+
+Diagnose schizophrenia using multimodal features from MRI scans
+
+======
+
+### [Greek Media Monitoring Multilabel Classification (WISE 2014)](https://www.kaggle.com/c/wise-2014)
+
+Mon 2 Jun 2014 – Tue 15 Jul 2014
+
+Multi-label classification of printed media articles to topics
+
+======
+
 ### [KDD Cup 2014 - Predicting Excitement at DonorsChoose.org](https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose)
 
 Thu 15 May 2014 – Tue 15 Jul 2014
