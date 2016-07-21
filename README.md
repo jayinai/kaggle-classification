@@ -13,11 +13,204 @@ Time spent on literature review is time well spent.
 This is only one list of the whole compilation. For other lists of competitions and solutions, please refer to:
 
 * Kaggle - [Regression](https://github.com/ShuaiW/kaggle-regression/)
-* Kaggle - [NLP](https://github.com/ShuaiW/kaggle-nlp)
+* Kaggle - [Sequence](https://github.com/ShuaiW/kaggle-sequence)
 * Kaggle - [Image](https://github.com/ShuaiW/kaggle-image)
 * Kaggle - [Miscellaneous](https://github.com/ShuaiW/kaggle-miscellaneous)
 
 Hope the compilation can save you efforts and offer you insights. Enjoy!
+
+======
+
+
+### [Telstra Network Disruptions](https://www.kaggle.com/c/telstra-recruiting-network)
+
+Wed 25 Nov 2015 – Mon 29 Feb 2016
+
+Telstra is challenging Kagglers to predict the severity of service disruptions on their network. Using a dataset of features from their service logs, you're tasked with predicting if a disruption is a momentary glitch or a total interruption of connectivity.
+
+======
+
+### [Prudential Life Insurance Assessment](https://www.kaggle.com/c/prudential-life-insurance-assessment)
+
+Mon 23 Nov 2015 – Mon 15 Feb 2016
+
+By developing a predictive model that accurately classifies risk using a more automated approach, you can greatly impact public perception of the industry.
+
+======
+
+### [The Allen AI Science Challenge](https://www.kaggle.com/c/the-allen-ai-science-challenge)
+
+Wed 7 Oct 2015 – Sat 13 Feb 2016
+
+Using a dataset of multiple choice question and answers from a standardized 8th grade science exam, AI2 is challenging you to create a model that gets to the head of the class.
+
+======
+
+### [Airbnb New User Bookings](https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings)
+
+Wed 25 Nov 2015 – Thu 11 Feb 2016
+
+In this recruiting competition, Airbnb challenges you to predict in which country a new user will make his or her first booking.
+
+======
+
+### [Homesite Quote Conversion](https://www.kaggle.com/c/homesite-quote-conversion)
+
+Mon 9 Nov 2015 – Mon 8 Feb 2016
+
+Which customers will purchase a quoted insurance plan?
+
+======
+
+### [Walmart Recruiting: Trip Type Classification](https://www.kaggle.com/c/walmart-recruiting-trip-type-classification)
+
+Mon 26 Oct 2015 – Sun 27 Dec 2015
+
+Walmart is challenging Kagglers to focus on the (data) science and classify customer trips using only a transactional dataset of the items they've purchased.
+
+======
+
+### [What's Cooking?](https://www.kaggle.com/c/whats-cooking)
+
+Wed 9 Sep 2015 – Sun 20 Dec 2015
+
+Use recipe ingredients to categorize the cuisine
+
+======
+
+### [Springleaf Marketing Response](https://www.kaggle.com/c/springleaf-marketing-response)
+
+Fri 14 Aug 2015 – Mon 19 Oct 2015
+
+Determine whether to send a direct mail piece to a customer
+
+======
+
+### [Truly Native?](https://www.kaggle.com/c/dato-native)
+
+Thu 6 Aug 2015 – Wed 14 Oct 2015
+
+Predict which web pages served by StumbleUpon are sponsored
+
+======
+
+### [Flavours of Physics: Finding τ → μμμ](https://www.kaggle.com/c/flavours-of-physics)
+
+Mon 20 Jul 2015 – Mon 12 Oct 2015
+
+Identify a rare decay phenomenon
+
+======
+
+### [Avito Context Ad Clicks](https://www.kaggle.com/c/avito-context-ad-clicks)
+
+Tue 2 Jun 2015 – Tue 28 Jul 2015
+
+Predict if context ads will earn a user's click
+
+======
+
+### [Crowdflower Search Results Relevance](https://www.kaggle.com/c/crowdflower-search-relevance)
+
+Mon 11 May 2015 – Mon 6 Jul 2015
+
+Predict the relevance of search results from eCommerce sites
+
+======
+
+### [West Nile Virus Prediction](https://www.kaggle.com/c/predict-west-nile-virus)
+
+Wed 22 Apr 2015 – Wed 17 Jun 2015
+
+Predict West Nile virus in mosquitos across the city of Chicago
+
+======
+
+### [Facebook Recruiting IV: Human or Robot?](https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot)
+
+Mon 27 Apr 2015 – Mon 8 Jun 2015
+
+The goal of this competition is to identify online auction bids that are placed by "robots", helping the site owners easily flag these users for removal from their site to prevent unfair auction activity. 
+
+======
+
+### [Poker Rule Induction](https://www.kaggle.com/c/poker-rule-induction)
+
+Wed 3 Dec 2014 – Mon 1 Jun 2015
+
+Determine the poker hand of five playing cards
+
+======
+
+### [Random Acts of Pizza](https://www.kaggle.com/c/random-acts-of-pizza)
+
+Thu 29 May 2014 – Mon 1 Jun 2015
+
+Predicting altruism through free pizza
+
+======
+
+### [Otto Group Product Classification Challenge](https://www.kaggle.com/c/otto-group-product-classification-challenge)
+
+Tue 17 Mar 2015 – Mon 18 May 2015
+
+Classify products into the correct category
+
+======
+
+### [Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
+
+Fri 16 May 2014 – Mon 11 May 2015
+
+Use cartographic variables to classify forest categories
+
+======
+
+### [Microsoft Malware Classification Challenge (BIG 2015)](https://www.kaggle.com/c/malware-classification)
+
+Tue 3 Feb 2015 – Fri 17 Apr 2015
+
+Classify malware into families based on file content and characteristics
+
+======
+
+### [March Machine Learning Mania 2015](https://www.kaggle.com/c/march-machine-learning-mania-2015)
+
+Mon 2 Feb 2015 – Tue 7 Apr 2015
+
+Predict the 2015 NCAA Basketball Tournament
+
+======
+
+### [BCI Challenge @ NER 2015](https://www.kaggle.com/c/inria-bci-challenge)
+
+Wed 19 Nov 2014 – Tue 24 Feb 2015
+
+A spell on you if you cannot detect errors!
+
+======
+
+### [Click-Through Rate Prediction](https://www.kaggle.com/c/avazu-ctr-prediction)
+
+Tue 18 Nov 2014 – Mon 9 Feb 2015
+
+Predict whether a mobile ad will be clicked
+
+======
+
+### [Data Science London + Scikit-learn](https://www.kaggle.com/c/data-science-london-scikit-learn)
+
+Wed 6 Mar 2013 – Wed 31 Dec 2014
+
+Scikit-learn is an open-source machine learning library for Python. Give it a try here!
+
+======
+
+### [Display Advertising Challenge](https://www.kaggle.com/c/criteo-display-ad-challenge)
+
+Tue 24 Jun 2014 – Tue 23 Sep 2014
+
+Predict click-through rates on display ads
 
 ======
 
