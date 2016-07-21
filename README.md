@@ -21,6 +21,61 @@ Hope the compilation can save you efforts and offer you insights. Enjoy!
 
 ======
 
+### [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+
+Fri 28 Sep 2012 - Sat 31 Dec 2016
+
+Predict survival on the Titanic using Excel, Python, R & Random Forests
+
+======
+
+### [TalkingData Mobile User Demographics](https://www.kaggle.com/c/talkingdata-mobile-user-demographics)
+
+Mon 11 Jul 2016 - Mon 5 Sep 2016
+
+Get to know millions of mobile device users
+
+======
+
+### [Shelter Animal Outcomes](https://www.kaggle.com/c/shelter-animal-outcomes)
+
+Mon 21 Mar 2016 - Sun 31 Jul 2016
+
+Help improve outcomes for shelter animals
+
+======
+
+### [San Francisco Crime Classification](https://www.kaggle.com/c/sf-crime)
+
+Tue 2 Jun 2015 – Mon 6 Jun 2016
+
+Predict the category of crimes that occurred in the city by the bay
+
+======
+
+### [Santander Customer Satisfaction](https://www.kaggle.com/c/santander-customer-satisfaction)
+
+Wed 2 Mar 2016 – Mon 2 May 2016
+
+Which customers are happy customers?
+
+======
+
+### [BNP Paribas Cardif Claims Management](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management)
+
+Wed 3 Feb 2016 – Mon 18 Apr 2016
+
+Can you accelerate BNP Paribas Cardif's claims management process?
+
+======
+
+### [March Machine Learning Mania 2016](https://www.kaggle.com/c/march-machine-learning-mania-2016)
+
+Thu 11 Feb 2016 – Tue 5 Apr 2016
+
+Predict the 2016 NCAA Basketball Tournament
+
+======
 
 ### [Telstra Network Disruptions](https://www.kaggle.com/c/telstra-recruiting-network)
 
